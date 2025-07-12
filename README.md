@@ -9,7 +9,8 @@
 - 🛠️ Developer of **Pixel LED** – software for controlling ARGB PC fan lighting  
 - ⚙️ Experienced with **ESP8266 NodeMCU**, **WLED**, and **PWM fan control**  
 - 💡 Skilled in **C#**, **.NET 8**, **WPF**, **WinForms**, and **Firebase**  
-- 🖥️ Enjoy developing desktop and web applications using **Visual Studio Code**  
+- 🖥️ Enjoy developing desktop and web applications using **Visual Studio Code**
+- 🎨 Graphic Design using **Adobe Photoshop**,**Adobe Illustater**,**Adobe XD**    
 - 🤯 A proud overthinker who loves solving complex problems 😅  
 
 ## 🔗 Connect with me
@@ -20,5 +21,6 @@
 - Cybersecurity & Ethical Hacking  
 - Hardware Programming & DIY Projects  
 - Web and App Development  
-- Blogging & Creative Writing  
+- Blogging & Creative Writing
+- Graphic Design /UX UI Design  
 
