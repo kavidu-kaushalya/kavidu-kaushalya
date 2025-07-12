@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/refs/heads/main/1-min-1.png"/>
 </div>
-
+##
 - 🎓 Currently pursuing a **Cybersecurity** degree  
 - 💻 Passionate about learning **ethical hacking** from scratch  
 - 🛠️ Developer of **Pixel LED** – software for controlling ARGB PC fan lighting  
