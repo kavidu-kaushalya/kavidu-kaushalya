@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/refs/heads/main/1-min-1.png"/>
+  <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e1a0efabbdcac027f3907c480b2573163692694f/Group%206.svg"/>
 </div>
 
 - 🎓 Currently pursuing a **Cybersecurity** degree  
