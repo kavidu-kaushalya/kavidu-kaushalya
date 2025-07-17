@@ -11,7 +11,7 @@
   ###
 <div>
   <div align="Left">
-    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/44f73c9d47ee4ab6cdadbbce9ac8cf1d22d40c65/metrics.plugin.pagespeed.svg" style="width: 80%; max-width: 600px;" >
+    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/44f73c9d47ee4ab6cdadbbce9ac8cf1d22d40c65/metrics.plugin.pagespeed.svg" style="width: 100%; max-width: 600px;" >
 </div>
   
 ###
