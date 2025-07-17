@@ -1,17 +1,13 @@
 ###
 
-<div align="LEFT">
-  <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e1a0efabbdcac027f3907c480b2573163692694f/Group%206.svg"/>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e1a0efabbdcac027f3907c480b2573163692694f/Group%206.svg" alt="Profile banner 1"/>
 </div>
 
-- 🎓 Currently pursuing a **Cybersecurity** degree  
-- 💻 Passionate about learning **ethical hacking** from scratch  
-- 🛠️ Developer of **Pixel LED** – software for controlling ARGB PC fan lighting  
-- ⚙️ Experienced with **ESP8266 NodeMCU**, **WLED**, and **PWM fan control**  
-- 💡 Skilled in **C#**, **.NET 8**, **WPF**, **WinForms**, and **Firebase**  
-- 🖥️ Enjoy developing desktop and web applications using **Visual Studio Code**
-- 🎨 Graphic Design using **Adobe Photoshop**,**Adobe Illustater**,**Adobe XD**    
-- 🤯 A proud overthinker who loves solving complex problems 😅  
+<div>
+  <div align="Left">
+    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/600af3ba787a418b27c57c35004739aae0487901/Group%207.svg">
+</div>
 
 ## 🔗 Connect with me
 - GitHub: [github.com/your-username](https://github.com/your-username)
