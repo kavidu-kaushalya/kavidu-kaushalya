@@ -2,8 +2,8 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e1a0efabbdcac027f3907c480b2573163692694f/Group%206.svg" alt="Profile banner 1"/>
-</div>
-
+  
+###
 <div>
   <div align="Left">
     <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/3aaf5664054b95eb1b28c28f68120526ec45078d/Group%208.svg">
