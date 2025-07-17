@@ -6,7 +6,7 @@
 
 <div>
   <div align="Left">
-    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/600af3ba787a418b27c57c35004739aae0487901/Group%207.svg">
+    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/3aaf5664054b95eb1b28c28f68120526ec45078d/Group%208.svg">
 </div>
 
 ## 🔗 Connect with me
