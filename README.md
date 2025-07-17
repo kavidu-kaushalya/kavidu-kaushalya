@@ -11,7 +11,7 @@
 ###
 <div>
   <div align="Left">
-    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e24bce98abea37900f0780e5ba8826576826e5d5/metrics.plugin.topics.icons%20(1).svg" >
+    <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e24bce98abea37900f0780e5ba8826576826e5d5/metrics.plugin.topics.icons%20(1).svg" style="width: 40%; max-width: 600px;" >
     <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/c67dc70c6da27800727e95e87c24377fee7a1434/metrics.plugin.starlists.languages.svg">
 </div>
   
