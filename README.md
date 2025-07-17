@@ -1,6 +1,6 @@
 ###
 
-<div align="center">
+<div align="LEFT">
   <img src="https://raw.githubusercontent.com/kavidu-kaushalya/kavidu-kaushalya/e1a0efabbdcac027f3907c480b2573163692694f/Group%206.svg"/>
 </div>
 
